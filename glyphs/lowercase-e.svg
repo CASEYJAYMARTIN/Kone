@@ -1,0 +1,24 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0,0,5,11'>
+  <path
+    d='
+      M1,4
+      L1,3
+      L4,3
+      L4,4
+      L1,4
+      L1,5
+      L4,5
+      L4,4
+      L5,4
+      L5,6
+      L1,6
+      L1,7
+      L4,7
+      L4,8
+      L1,8
+      L1,7
+      L0,7
+      L0,4
+      Z'
+  />
+</svg>
