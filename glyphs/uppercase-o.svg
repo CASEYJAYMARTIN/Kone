@@ -1,0 +1,22 @@
+<svg viewBox='0,0,5,11' xmlns='http://www.w3.org/2000/svg'>
+  <path
+    d='
+      M1,1
+      L1,0
+      L4,0
+      L4,1
+      L5,1
+      L5,7
+      L4,7
+      L4,8
+      L1,8
+      L1,7
+      L0,7
+      L0,1
+      Z
+      L1,7
+      L4,7
+      L4,1
+      Z'
+  />
+</svg>
