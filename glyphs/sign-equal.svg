@@ -1,15 +1,13 @@
-<svg viewBox='0,0,5,11' xmlns='http://www.w3.org/2000/svg'>
+<svg viewBox='0,0,7,9' xmlns='http://www.w3.org/2000/svg'>
   <path
     d='
+      M0,2
+      L7,2
+      L7,3
+      L0,3
       M0,4
-      L5,4
-      L5,5
-      L0,5
-      Z
-      M0,6
-      L5,6
-      L5,7
-      L0,7
-      Z'
+      L7,4
+      L7,5
+      L0,5'
   />
 </svg>
