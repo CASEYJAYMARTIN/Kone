@@ -1,10 +1,9 @@
-<svg viewBox='0,0,5,11' xmlns='http://www.w3.org/2000/svg'>
+<svg viewBox='0,0,7,9' xmlns='http://www.w3.org/2000/svg'>
   <path
     d='
       M0,8
-      L5,8
-      L5,9
-      L0,9
-      Z'
+      L7,8
+      L7,9
+      L0,9'
   />
 </svg>
